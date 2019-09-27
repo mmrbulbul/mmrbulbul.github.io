@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Mmr Bulbul"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Lost in memory-lane."
+  avatar           : '/images/bio-pic.jpg'# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Lost in memory lane."
   location         : "Tokyo, Japan"
   email            :
   links:
